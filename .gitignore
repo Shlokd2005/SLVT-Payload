@@ -1,0 +1,25 @@
+# SolidWorks temp files
+*.swp
+~$*
+*/backup/
+
+# Arduino
+build/
+*.elf
+*.hex
+*.map
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE configs
+.vscode/
+.idea/
